@@ -16,11 +16,11 @@ img{border: 0;}
 #navi span a{margin-top:20px;font-size: 14px;color: #282828;display: block;}
 #navi .ul-one li a:hover{color: #ffd100;background: #000;}
 
-#banner{width: 1130px;height:300px;margin: 20px auto 0;}
+#banner{width: 1130px;height:500px;margin: 20px auto 0;overflow: hidden;}
 #banner ul li img{float: left;margin:20px 20px 0 0;border-radius: 5px;}
 #banner ul li .img{margin-right: 0px;}
 
-#content_navi{width: 1130px;height:290px;margin: 0 auto;position: relative;}
+#content_navi{width: 1130px;height:100px;margin: 0 auto;position: relative;}
 #content_navi ul{position: absolute;bottom: 0;left: 50%;transform: translateX(-50%);}
 #content_navi ul li{float: left;}
 #content_navi ul li a{display: block;font-size: 16px;color:#999;padding: 20px 0px;margin: 0 33px;border-bottom: 2px solid #fff;}
